@@ -17,7 +17,7 @@
  2. Clone this repository to your local machine:
 
  ```
- git clone https://github.com/yourusername/crawl.git
+ git clone https://github.com/fusion212/SourceCodeCrawlsWithin.git
  ```
 
  3. Change into the project directory:
